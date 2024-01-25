@@ -31,3 +31,12 @@ body {
     text-wrap: balance;
   }
 }
+
+.nuclear-text{
+  text-shadow: 1px 1px 2px #2CFA1F;
+}
+
+.meltdown-text:hover{
+  text-shadow: 1px 1px 2px #fa1f1f;
+
+}
