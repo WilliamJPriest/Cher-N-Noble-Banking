@@ -13,8 +13,8 @@ export default function Home() {
         </ul>
         <a className="pt-3" href="">Login</a>
       </nav>
-      <section className="bg-nuclear-family bg-cover h-32 w-screen flex items-center justify-center" aria-label="Hero">
-        <img src="" alt="" />
+      <section aria-label="Hero">
+        <img className="w-screen h-[500px]" src="https://i.ibb.co/swGgxh9/nuclear-family.webp" alt="The Nuclear Family" />
       </section>
 
     </main>
