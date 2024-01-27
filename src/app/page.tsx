@@ -11,7 +11,6 @@ export default function Home() {
           <li><a href="">Investiments</a></li>
           <li><a href="">Why Us?</a></li>
         </ul>
-        <a className="pt-3" href="">Login</a>
       </nav>
       <section className="shadow shadow-[#2CFA1F] flex justify-between bg-white w-screen" aria-label="Hero-Container">
           <form className="flex flex-col justify-center align-center mx-auto" action="">
