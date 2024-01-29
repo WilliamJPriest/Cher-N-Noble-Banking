@@ -5,7 +5,7 @@
 /.pnp
 .pnp.js
 .yarn/install-state.gz
-./collection.js
+./collection.db
 
 # testing
 /coverage
