@@ -16,3 +16,5 @@ function addUser(){
         )
     })    
 }
+
+module.export = addUser()
